@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/sunglo_300" />
+    <corners
+        android:bottomLeftRadius="@dimen/background_tap_corner_size"
+        android:bottomRightRadius="@dimen/background_tap_corner_size"
+        android:topLeftRadius="@dimen/background_tap_corner_size"
+        android:topRightRadius="@dimen/background_tap_corner_size" />
+
+</shape>

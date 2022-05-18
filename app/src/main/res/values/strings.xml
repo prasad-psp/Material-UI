@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test-Int</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="your_ninfo">Your \ninfo</string>
+    <string name="know_nyou">Know \nyou</string>
+    <string name="your_nfamily">Your \nfamily</string>
+    <string name="your_nrisk">Your \nrisk</string>
+    <string name="who_is_this_investment_for">Who is this investment for ?*</string>
+    <string name="is_the_equity_one_time_or_recurring">Is the equity one time or recurring ?</string>
+    <string name="fixed">Fixed</string>
+    <string name="variable">Variable</string>
+    <string name="date_of_purchase">Date of purchase</string>
+    <string name="number_of_units">Number of units</string>
+    <string name="purchase_price">Purchase price</string>
+    <string name="add_more">Add more</string>
+    <string name="calendar_image">calendar_image</string>
+    <string name="_2">2</string>
+    <string name="message_fab">message_fab</string>
+</resources>

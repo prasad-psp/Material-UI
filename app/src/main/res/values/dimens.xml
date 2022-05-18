@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="medium_text_size">12sp</dimen>
+
+    <!-- Drawable tab selected or not selected -->
+    <dimen name="background_tap_corner_size">15dp</dimen>
+
+    <!-- Home -->
+    <dimen name="heading_card_width_height">60dp</dimen>
+    <dimen name="home_card_content_textsize">10sp</dimen>
+    <dimen name="tab_layout_padding">7dp</dimen>
+    <dimen name="tab_layout_icon_width">33dp</dimen>
+    <dimen name="tab_layout_icon_height">27dp</dimen>
+
+    <!-- Your Info -->
+    <dimen name="yi_content_margin_top">20dp</dimen>
+    <dimen name="yi_content_text_size">11sp</dimen>
+
+    <!-- Your info, Know you, Your family -->
+    <dimen name="tab_childview_margin_top">10dp</dimen>
+    <dimen name="tab_childview_padding">20dp</dimen>
+
+</resources>
